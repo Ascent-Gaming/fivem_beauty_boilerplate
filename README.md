@@ -32,6 +32,12 @@ No additional steps need to be taken to begin using Preact. See `src/html/` for 
 
 ***Note:*** It's recommended you use the [`lit-html`](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) VSCode extension, or similar for another editor.
 
+### Bootstrap
+
+By default, the UI will provide Bootstrap. This means you're free to start making NUI's using the full power of Bootstrap v5.
+
+> Customization for Bootstrap will come at a later date. In short, in involves adding the Bootstrap SCSS source files and setting up SASS to compile these files to CSS. This process can be made-easy by hooking into the `watch` command to auto-comile on changes to the directory your custom SCSS resides.
+
 ### Development
 Use `npm run watch` to watch files during development.
 
