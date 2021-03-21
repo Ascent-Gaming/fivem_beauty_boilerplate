@@ -1,7 +1,7 @@
-<h2 align="center">FiveM TypeScript Boilerplate</h2>
+# FiveM TypeScript Boilerplate
+
 <h3 align="center"><a href="https://preactjs.com/" target="_blank">Preact</a> and <a href="https://tailwindcss.com/" target="_blank">Tailwind</a> 🔋 NUI</h3>
-<h4 align="center"><code><a href="https://github.com/d0p3t/fivem-js" target="_blank">fivem-js</a></code> 🏃‍♀️ included</h4>
-<br/>
+<h3 align="center"><code><a href="https://github.com/d0p3t/fivem-js" target="_blank">fivem-js</a></code> 🏃‍♀️ included</h3>
 
 ---
 
