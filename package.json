@@ -9,7 +9,7 @@
     "realStandal <realStandal@users.noreply.github.com>"
   ],
   "scripts": {
-    "build:nui:styles": "cross-env NODE_ENV=production postcss src/html/styles/style.css -o src/html/styles/dist/styles.css",
+    "build:nui:styles": "cross-env NODE_ENV=production postcss src/html/styles/style.css -o src/html/styles/dist/style.css",
     "build:nui": "npm run build:nui:styles",
     "build:script": "webpack --mode production",
     "build": "concurrently \"npm run build:nui\" \"npm run build:script\"",
